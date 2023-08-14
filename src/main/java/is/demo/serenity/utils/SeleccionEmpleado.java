@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 
 public class SeleccionEmpleado extends PageObject {
-
+//Prueba
     //private By Seleccionador = By.cssSelector(".select2-results-dept-0");
     private By Seleccionador = By.cssSelector(".select2-results-dept-0");
 
